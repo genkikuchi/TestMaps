@@ -1,0 +1,3 @@
+# Module test_maps
+# RPC service class, partial path of RPC policy file
+com.google.gwt.maps.testing.client.GreetingService, E7A34E4967F9481EA14896D95948E58E.gwt.rpc

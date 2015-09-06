@@ -1,0 +1,2 @@
+serviceClass: com.google.gwt.maps.testing.client.GreetingService
+path: E7A34E4967F9481EA14896D95948E58E.gwt.rpc
